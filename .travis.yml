@@ -13,4 +13,4 @@ cache:
 
 # Script runs the build
 script:
-    - ./build/build-test.sh
+    - ./build/build-test.sh 
