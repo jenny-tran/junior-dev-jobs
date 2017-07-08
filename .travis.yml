@@ -12,4 +12,6 @@ deploy:
     provider: "heroku"
         app: jenny-jdjobs-dev
         api_key:
-            secure: FIKVJdrEJYBj3Lwbh4Laa3gxdWiG7iIOhu1E6xkoBUcTKmKeQrNOluRvkR3QEJLiXnZ2B0afFxWVuEmWwUPQhuDNwyczp6eJdGIJ0ejQTtmSQ9phLQ+x5Pxv/MVGVF2Yj+fmKUgUR/wav/zG4AFY7Uf8MkfKMP3yTUZUhWMLQ3wt48vuyzVNmabWO1pnDoGUhxACFgZZxaXDAueZbob5Z0r/zbFnUUc5VNJzm+/z+tQNALKmBQ4pukiBpCPBJcMoG8CWuXKllcQjzRnL59IqfzUr2n4PGOQ+amPm3kZnllkCFt4ZsWkbV/RzGl9QW6vjohnXQoVh2VwGrAieTJwA8NXQZ1dBi3tb3CG24L2fG/kkkylBsnYnpotVupTaq7IKy94HfhmWwdGR//ZZNhvHwajIM9gGhk67QekHekVGbC1wQ/R/+qtVYdBscZfVOvGWH2906W8dP5AsSARPu1cvOc/1SXbCBv9aEMA2nArnO3ed7HqjDKbOR/wH5t6XthheQeEVDEOs4ISezO/L44/32ilZ+ypZl8aczvz4F3FPt9iuj0DL9ja4942o6TbI8XEpn/v8vb63JcWlvQMVUh4cXXj36HmZlmnYhhMjVThfZdztqdUmpQ8XccBPnz4gGboggQMYuax6Qk9vp8QsLlWW4Eg7e7J9F4DGcXUt4D/EcZM=
+            secure: "FIKVJdrEJYBj3Lwbh4Laa3gxdWiG7iIOhu1E6xkoBUcTKmKeQrNOluRvkR3QEJLiXnZ2B0afFxWVuEmWwUPQhuDNwyczp6eJdGIJ0ejQTtmSQ9phLQ+x5Pxv/MVGVF2Yj+fmKUgUR/wav/zG4AFY7Uf8MkfKMP3yTUZUhWMLQ3wt48vuyzVNmabWO1pnDoGUhxACFgZZxaXDAueZbob5Z0r/zbFnUUc5VNJzm+/z+tQNALKmBQ4pukiBpCPBJcMoG8CWuXKllcQjzRnL59IqfzUr2n4PGOQ+amPm3kZnllkCFt4ZsWkbV/RzGl9QW6vjohnXQoVh2VwGrAieTJwA8NXQZ1dBi3tb3CG24L2fG/kkkylBsnYnpotVupTaq7IKy94HfhmWwdGR//ZZNhvHwajIM9gGhk67QekHekVGbC1wQ/R/+qtVYdBscZfVOvGWH2906W8dP5AsSARPu1cvOc/1SXbCBv9aEMA2nArnO3ed7HqjDKbOR/wH5t6XthheQeEVDEOs4ISezO/L44/32ilZ+ypZl8aczvz4F3FPt9iuj0DL9ja4942o6TbI8XEpn/v8vb63JcWlvQMVUh4cXXj36HmZlmnYhhMjVThfZdztqdUmpQ8XccBPnz4gGboggQMYuax6Qk9vp8QsLlWW4Eg7e7J9F4DGcXUt4D/EcZM="
+        on:
+            all_branches: true
